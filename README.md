@@ -3,3 +3,4 @@ The topics included are:
 1. Pattern Problems
 2. Number Programming.
 3. Conversion(Decimal To Binary and vice versa)
+4. Arrays
