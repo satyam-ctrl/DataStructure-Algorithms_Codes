@@ -4,3 +4,4 @@ The topics included are:
 2. Number Programming.
 3. Conversion(Decimal To Binary and vice versa)
 4. Arrays
+5. Sorting
